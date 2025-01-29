@@ -1,0 +1,1 @@
+SELECT "reseau"."Incidents"."idIncident","reseau"."Incidents"."type" FROM "reseau"."Incidents";
