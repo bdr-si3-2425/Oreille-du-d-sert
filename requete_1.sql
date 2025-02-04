@@ -11,3 +11,7 @@ WITH trajets AS (
 )
 SELECT * FROM trajets
 ORDER BY correspondances, arrivee - depart;
+
+--On cherche d'abord les trajets directs sans correspondance.
+--Ensuite, on ajoute des correspondances au maximum 2 fois.
+--On trie par moins de correspondances et durée la plus courte.
