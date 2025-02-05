@@ -24,3 +24,4 @@ ORDER BY ta.gare, h.horaire;
 --On commence par les gares touchées par l’incident (idligne = X).
 --Récursivement, on trouve d'autres lignes passant par ces gares.
 --On limite à 3 correspondances max pour éviter les trajets trop longs.
+--Requête par Alexandre Larguech
