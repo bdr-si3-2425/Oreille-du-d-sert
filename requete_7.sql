@@ -10,3 +10,4 @@ LIMIT 5;
 --On compte combien d’incidents de chaque type ont eu lieu.
 --On calcule le retard moyen en minutes des trains impactés.
 --On affiche les 5 incidents les plus impactants.
+--Requête par l'ensemble du groupe
