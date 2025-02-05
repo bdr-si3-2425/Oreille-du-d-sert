@@ -13,3 +13,4 @@ LIMIT 5;
 --On compte combien de lignes passent par chaque gare.
 --On sélectionne les gares les mieux connectées (2 à 5 lignes) ce sera celles qui seront les plus optimales.
 --On propose les 5 meilleures gares pour la nouvelle ligne.
+--Requête par Alexandre Larguech
